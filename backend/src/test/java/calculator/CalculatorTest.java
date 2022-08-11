@@ -71,4 +71,14 @@ class CalculatorTest {
     public void test3() {
 
     }
+
+    @Test
+    public void test4() {
+
+    }
+
+    @Test
+    public void test5() {
+
+    }
 }
