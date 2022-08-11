@@ -61,4 +61,9 @@ class CalculatorTest {
     public void test() {
 
     }
+
+    @Test
+    public void test2() {
+
+    }
 }
