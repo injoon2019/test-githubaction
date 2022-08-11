@@ -56,4 +56,9 @@ class CalculatorTest {
                 .isInstanceOf(RuntimeException.class)
                 .hasMessageContaining("음수는 불가합니다!");
     }
+
+    @Test
+    public void test() {
+
+    }
 }
